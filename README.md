@@ -10,7 +10,6 @@ then include the file path e.g.
 
 `include documents/cottonBlackberry-kitty`
 
-
 # telegram
 - you can simply click the shared links. or:
 
