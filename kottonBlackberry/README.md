@@ -3,4 +3,4 @@
 ![#5c759c](https://img.shields.io/badge/-5c759c?style=flat&color=5c759c)
 
 
-![kottonBlackBerry-preview](./assets/kottonBlackBerry-preview.png)
+![kottonBlackBerry-preview](assets/kottonBlackBerry-preview.png)
