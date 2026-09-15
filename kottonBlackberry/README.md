@@ -3,7 +3,7 @@
 ![#5c759c](https://img.shields.io/badge/-5c759c?style=flat&color=5c759c)
 
 
-![telegram theme](https://t.me/addtheme/er2F42CFZsNP4OCu)
+[telegram theme](https://t.me/addtheme/er2F42CFZsNP4OCu)
 
 ![kottonBlackBerry-preview](../assets/kottonBlackBerry-preview.png)
 
